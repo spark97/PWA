@@ -1,1 +1,1 @@
-"A simple Progressive Web App" 
+A simple Progressive Web App 
